@@ -6,7 +6,7 @@ resource "azurerm_resource_gruop_name" "example"{
     }
 }
 resource "azurerm_resource_gruop_name" "example"{
-    name = "n2"
+    name = "n8552558"
     location = "central india"
     tags{
         name = sudhakar789
