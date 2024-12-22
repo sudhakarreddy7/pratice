@@ -2,12 +2,12 @@ resource "azurerm_resource_gruop_name" "example"{
     name = "n1"
     location = "central india"
     tags{
-        name = sudhakar
+        name = sudhakar789
     }
 }
 resource "azurerm_resource_gruop_name" "example"{
     name = "n1"
-    location = "central india"
+    location = "south india"
     tags{
         name = sudhakar
     }
