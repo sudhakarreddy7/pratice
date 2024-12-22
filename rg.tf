@@ -5,3 +5,10 @@ resource "azurerm_resource_gruop_name" "example"{
         name = sudhakar789
     }
 }
+resource "azurerm_resource_gruop_name" "example"{
+    name = "n1"
+    location = "centraliueuh india"
+    tags{
+        name = sudhakar789
+    }
+}
